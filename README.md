@@ -1,1 +1,1 @@
-# GitMinu.github.io
+# minu-gcu
